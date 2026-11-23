@@ -1,0 +1,12 @@
+/news/page/*  /news/  301
+/season/page/*  /season/  301
+/event/page/*  /event/  301
+/en/news/page/*  /en/news/  301
+/en/season/page/*  /en/season/  301
+/en/event/page/*  /en/event/  301
+/news/7009      /en/news/7009/  301
+/news/7009/     /en/news/7009/  301
+/news/4532      /en/news/4532/  301
+/news/4532/     /en/news/4532/  301
+/en/news/5054   /news/5054/     301
+/en/news/5054/  /news/5054/     301
